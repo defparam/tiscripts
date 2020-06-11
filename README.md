@@ -10,7 +10,7 @@ How to use:
 4) Completely replace the script pane (bottom pane) with DesyncAttack_CLTE.py or DesyncAttack_TECL.py
 5) The top (request) pane is not needed and ignored, the script creates its own requests
 6) Fill out all the attack parameters for the attack (documentation inside the script)
-7) click "Attack"
+7) Click "Attack"
 
 # License
-These scripts are released under MIT license. See [LICENSE](https://github.com/defparam/tiscripts/blob/master/LICENSE).
+These scripts are released under the MIT license. See [LICENSE](https://github.com/defparam/tiscripts/blob/master/LICENSE).
